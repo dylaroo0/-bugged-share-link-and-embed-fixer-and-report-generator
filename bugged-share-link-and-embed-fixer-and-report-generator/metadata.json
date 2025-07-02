@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of Universal Embed Fixer",
+  "description": "A simple tool to generate the correct embed code from a YouTube, YouTube Music, or Spotify URL (including tracks, albums, playlists, and podcasts). Helps bypass platform bugs and ensures you get the right content every time.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
