@@ -1,6 +1,6 @@
 # Universal Embed Fixer
 
-A simple but powerful web tool to generate clean, correct, and stable embed codes from YouTube and Spotify URLs. It helps bypass platform bugs and ensures you get the right content embedded on your website or blog every time.
+A simple but powerful ( well this is the starter model; it works , reports evedence if you want to get more stained by the Spotlight...web tool to generate clean, correct, and stable embed codes from YouTube and Spotify URLs. It helps bypass platform bugs and ensures you get the right content embedded on your website or blog every time.
 
 ## The Problem
 
